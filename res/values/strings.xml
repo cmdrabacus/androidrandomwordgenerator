@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Happr</string>
+    <string name="action_about">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="submitbutton">Generieren</string>
+    <string name="sharebutton">Anmelden</string>
+    <string name="updatebutton">Mit Freunden teilen</string>
+	<string name="welcomemsg">Woerter, die du niemals brauchst.</string>
+	<string name="basetext"></string>
+	<string name="editbeforshare">Drücke Generieren und schau was dich erwartet... </string>
+	
+	
+</resources>

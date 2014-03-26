@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="submitbutton" type="id"/>
+    <item name="welcomemsg" type="id"/>
+    <item name="showresult" type="id"/>
+</resources> 
